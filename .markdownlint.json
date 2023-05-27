@@ -1,0 +1,15 @@
+{
+    "MD033": {
+        "allowed_elements": [
+            "a",
+            "b",
+            "br",
+            "div",
+            "h3",
+            "i",
+            "img",
+            "p"
+        ]
+    },
+    "MD041": false
+}
